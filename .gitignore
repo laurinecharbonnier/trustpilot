@@ -1,0 +1,19 @@
+# --- Python / logs ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# --- Notebooks temporaires ---
+.ipynb_checkpoints/
+
+# --- Modèles ---
+models/embeddings/
+models/language_detection/
+
+# --- Environnements ---
+.env
+.venv/
+venv/
+*.env
