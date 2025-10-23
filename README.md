@@ -11,7 +11,7 @@ Pour cela, le projet s'effectue en plusieurs étapes :
 
 ## Structure du dépôt
 
-- `data` - données brutes, après traitement, et embeddings obtenus
+- `data` - données : brutes, après traitement, et embeddings obtenus
 - `models` - modèles d'embeddings et modèle de détection de langues
 - `notebooks` - Notebooks Jupyter du projet
 - `src` - scripts python
