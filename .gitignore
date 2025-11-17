@@ -11,6 +11,7 @@ __pycache__/
 # --- Modèles ---
 models/embeddings/
 models/language_detection/
+models/topic_modeling/
 
 # --- Environnements ---
 .env
