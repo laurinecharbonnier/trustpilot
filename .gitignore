@@ -13,6 +13,10 @@ models/embeddings/
 models/language_detection/
 models/topic_modeling/
 
+# --- Fichiers trop volumineux ---
+data/embeddings/
+notebooks/artifacts/bertopic/reviews_phrases_with_topics.csv
+
 # --- Environnements ---
 .env
 .venv/
